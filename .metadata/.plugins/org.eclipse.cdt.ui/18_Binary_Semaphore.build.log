@@ -1,0 +1,10 @@
+23:45:41 **** Build of configuration Debug for project 18_Binary_Semaphore ****
+make -j12 all 
+arm-none-eabi-size   18_Binary_Semaphore.elf 
+   text	   data	    bss	    dec	    hex	filename
+  51260	    400	  14860	  66520	  103d8	18_Binary_Semaphore.elf
+Finished building: default.size.stdout
+ 
+
+23:45:42 Build Finished. 0 errors, 0 warnings. (took 647ms)
+

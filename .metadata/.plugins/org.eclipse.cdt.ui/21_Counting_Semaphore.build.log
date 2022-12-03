@@ -1,0 +1,10 @@
+23:45:44 **** Build of configuration Debug for project 21_Counting_Semaphore ****
+make -j12 all 
+arm-none-eabi-size   21_Counting_Semaphore.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33780	    124	   9248	  43152	   a890	21_Counting_Semaphore.elf
+Finished building: default.size.stdout
+ 
+
+23:45:45 Build Finished. 0 errors, 0 warnings. (took 650ms)
+

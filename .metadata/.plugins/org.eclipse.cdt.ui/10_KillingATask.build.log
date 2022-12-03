@@ -1,0 +1,10 @@
+23:45:34 **** Build of configuration Debug for project 10_KillingATask ****
+make -j12 all 
+arm-none-eabi-size   10_KillingATask.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29004	    124	   9264	  38392	   95f8	10_KillingATask.elf
+Finished building: default.size.stdout
+ 
+
+23:45:36 Build Finished. 0 errors, 0 warnings. (took 1s.154ms)
+

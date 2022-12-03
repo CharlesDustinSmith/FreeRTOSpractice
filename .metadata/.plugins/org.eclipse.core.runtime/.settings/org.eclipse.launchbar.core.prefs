@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:10_KillingATask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:11_Blocking_A_Task Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:12_ExecutingTaskPeriodically Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:13_IdleTask,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:14_Working_With_Queues Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:15_Synching_Queues Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:16_Sending_Complex_Data_With_Queues Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:18_Binary_Semaphore Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:2_CreatingTasksfromOtherTask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:3_Task_Parameters Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:5_ChangingPriorityInRuntime Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:6_ChangingOwnPriority Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:7_GettingTaskPriority Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:8_SuspendingTask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:9_ResumingTask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_Task_Creation Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:10_KillingATask\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:10_KillingATask\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:11_Blocking_A_Task\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:13_IdleTask/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:14_Working_With_Queues\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:15_Synching_Queues\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:18_Binary_Semaphore\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_Task_Creation\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_Task_Creation\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:3_Task_Parameters\ Debug/activeLaunchMode=run

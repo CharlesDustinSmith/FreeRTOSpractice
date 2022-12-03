@@ -1,0 +1,10 @@
+23:45:46 **** Build of configuration Debug for project 23_Working_With_Software_Timers ****
+make -j12 all 
+arm-none-eabi-size   23_Working_With_Software_Timers.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32288	    124	   9264	  41676	   a2cc	23_Working_With_Software_Timers.elf
+Finished building: default.size.stdout
+ 
+
+23:45:46 Build Finished. 0 errors, 0 warnings. (took 515ms)
+

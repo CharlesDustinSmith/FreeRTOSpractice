@@ -1,0 +1,10 @@
+23:45:38 **** Build of configuration Debug for project 14_Working_With_Queues ****
+make -j12 all 
+arm-none-eabi-size   14_Working_With_Queues.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33392	    124	   9248	  42764	   a70c	14_Working_With_Queues.elf
+Finished building: default.size.stdout
+ 
+
+23:45:38 Build Finished. 0 errors, 0 warnings. (took 468ms)
+

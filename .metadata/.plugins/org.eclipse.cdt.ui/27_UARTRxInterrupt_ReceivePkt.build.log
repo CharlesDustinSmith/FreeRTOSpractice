@@ -1,0 +1,10 @@
+23:45:48 **** Build of configuration Debug for project 27_UARTRxInterrupt_ReceivePkt ****
+make -j12 all 
+arm-none-eabi-size   27_UARTRxInterrupt_ReceivePkt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32264	    124	   9320	  41708	   a2ec	27_UARTRxInterrupt_ReceivePkt.elf
+Finished building: default.size.stdout
+ 
+
+23:45:48 Build Finished. 0 errors, 0 warnings. (took 511ms)
+

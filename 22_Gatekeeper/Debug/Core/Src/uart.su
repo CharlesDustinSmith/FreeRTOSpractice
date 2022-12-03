@@ -1,0 +1,4 @@
+../Core/Src/uart.c:12:6:LPUART1_UART_TX_Init	8	static
+../Core/Src/uart.c:31:6:LPUART1_UART_RX_Init	8	static
+../Core/Src/uart.c:50:5:LPUART1_write	16	static
+../Core/Src/uart.c:56:5:__io_putchar	16	static

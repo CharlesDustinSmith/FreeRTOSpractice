@@ -1,0 +1,10 @@
+23:45:39 **** Build of configuration Debug for project 15_Synching_Task_Using_Queues ****
+make -j12 all 
+arm-none-eabi-size   15_Synching_Task_Using_Queues.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33560	    124	   9264	  42948	   a7c4	15_Synching_Task_Using_Queues.elf
+Finished building: default.size.stdout
+ 
+
+23:45:39 Build Finished. 0 errors, 0 warnings. (took 654ms)
+

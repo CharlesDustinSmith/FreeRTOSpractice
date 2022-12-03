@@ -1,0 +1,14 @@
+/*
+ * adc.c
+ *
+ *  Created on: Oct. 31, 2022
+ *      Author: cdsmi
+ */
+#include "stm32wbxx_hal.h"
+
+void adc_init(void){
+	RCC->AHB1ENR = (1U<<0);
+}
+
+
+

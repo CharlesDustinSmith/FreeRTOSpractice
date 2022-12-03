@@ -1,0 +1,10 @@
+23:45:53 **** Build of configuration Debug for project 6_ChangingOwnPriority ****
+make -j12 all 
+arm-none-eabi-size   6_ChangingOwnPriority.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28636	    124	   9248	  38008	   9478	6_ChangingOwnPriority.elf
+Finished building: default.size.stdout
+ 
+
+23:45:53 Build Finished. 0 errors, 0 warnings. (took 451ms)
+

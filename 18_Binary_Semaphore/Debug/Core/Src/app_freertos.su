@@ -1,0 +1,4 @@
+../Core/Src/app_freertos.c:63:13:configureTimerForRunTimeStats	4	static
+../Core/Src/app_freertos.c:68:22:getRunTimeCounterValue	4	static
+../Core/Src/app_freertos.c:75:6:vApplicationIdleHook	4	static
+../Core/Src/app_freertos.c:90:6:vApplicationTickHook	4	static

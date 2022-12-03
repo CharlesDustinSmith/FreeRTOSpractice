@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;25_Interacting_With_Drivers&apos; to &apos;25_Interacting_With_Drivers-UARTRx&apos;" description="Rename resource &apos;25_Interacting_With_Drivers&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/25_Interacting_With_Drivers" name="25_Interacting_With_Drivers-UARTRx" stamp="1668214129796" updateReferences="true"/>
+</session>

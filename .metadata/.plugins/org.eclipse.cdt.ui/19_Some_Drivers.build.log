@@ -1,0 +1,10 @@
+23:45:42 **** Build of configuration Debug for project 19_Some_Drivers ****
+make -j12 all 
+arm-none-eabi-size   19_Some_Drivers.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17972	    120	   3724	  21816	   5538	19_Some_Drivers.elf
+Finished building: default.size.stdout
+ 
+
+23:45:43 Build Finished. 0 errors, 0 warnings. (took 708ms)
+

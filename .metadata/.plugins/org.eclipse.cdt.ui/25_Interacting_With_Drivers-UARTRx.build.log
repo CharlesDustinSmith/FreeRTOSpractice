@@ -1,0 +1,10 @@
+23:45:46 **** Build of configuration Debug for project 25_Interacting_With_Drivers-UARTRx ****
+make -j12 all 
+arm-none-eabi-size   25_Interacting_With_Drivers-UARTRx.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28176	    124	   9240	  37540	   92a4	25_Interacting_With_Drivers-UARTRx.elf
+Finished building: default.size.stdout
+ 
+
+23:45:47 Build Finished. 0 errors, 0 warnings. (took 600ms)
+

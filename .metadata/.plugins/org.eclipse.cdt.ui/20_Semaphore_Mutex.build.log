@@ -1,0 +1,10 @@
+23:45:43 **** Build of configuration Debug for project 20_Semaphore_Mutex ****
+make -j12 all 
+arm-none-eabi-size   20_Semaphore_Mutex.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33764	    124	   9248	  43136	   a880	20_Semaphore_Mutex.elf
+Finished building: default.size.stdout
+ 
+
+23:45:44 Build Finished. 0 errors, 0 warnings. (took 517ms)
+
