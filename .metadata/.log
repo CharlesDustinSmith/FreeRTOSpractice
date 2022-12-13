@@ -1645,3 +1645,54 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/c
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-11-29 01:10:39.419
 !MESSAGE Indexed '30_Synchronizing_Task_With_EventGroups' (41 sources, 203 headers) in 4.98 sec: 22,818 declarations; 109,973 references; 3 unresolved inclusions; 295 syntax errors; 1,305 unresolved names (0.97%)
+!SESSION 2022-12-05 20:38:41.095 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-05 20:39:00.523
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-05 20:39:00.651
+!MESSAGE Log4j initialized with config file C:\Users\cdsmi\STM32CubeIDE\workspace_1.10.1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-05 20:39:32.178
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-12-05 20:45:42.114 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-05 20:45:47.957
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-05 20:45:48.054
+!MESSAGE Log4j initialized with config file C:\Users\cdsmi\STM32CubeIDE\workspace_1.10.1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-05 20:46:04.192
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2022-12-05 20:48:56.001
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 3 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2022-12-05 20:48:56.002
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2022-12-05 20:48:56.194
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 3 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2022-12-05 20:48:56.195
+!MESSAGE Existing sessions are:
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-12-11 01:33:22.036
+!MESSAGE Indexed '31_Task_Notifications' (41 sources, 202 headers) in 10.1 sec: 22,333 declarations; 105,076 references; 8 unresolved inclusions; 1,224 syntax errors; 4,240 unresolved names (3.2%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-12-11 15:56:16.632
+!MESSAGE Indexed '32_The_Scheduler_Preemption_Only' (41 sources, 200 headers) in 7.88 sec: 22,253 declarations; 104,840 references; 14 unresolved inclusions; 1,224 syntax errors; 4,426 unresolved names (3.4%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-12-12 22:35:09.247
+!MESSAGE Indexed '33_The_Scheduler_Pseudo_Time_Slicing' (41 sources, 203 headers) in 7.34 sec: 22,819 declarations; 109,924 references; 3 unresolved inclusions; 295 syntax errors; 1,305 unresolved names (0.97%)
