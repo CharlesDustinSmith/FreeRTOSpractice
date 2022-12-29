@@ -1,0 +1,15 @@
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1675:22:LL_RCC_LSE_SetDriveCapability	16	static
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	24	static
+../Core/Src/main.c:37:5:main	152	static
+../Core/Src/main.c:93:6:vGreenLedControllerTask	24	static
+../Core/Src/main.c:103:6:vRedLedControllerTask	24	static
+../Core/Src/main.c:114:6:vOrangeLedControllerTask	24	static
+../Core/Src/main.c:124:6:vBlueLedControllerTask	24	static
+../Core/Src/main.c:138:6:Timer1_Callback	16	static
+../Core/Src/main.c:143:6:Timer2_Callback	16	static
+../Core/Src/main.c:148:6:SystemClock_Config	112	static
+../Core/Src/main.c:216:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:264:13:MX_USB_PCD_Init	8	static
+../Core/Src/main.c:297:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:347:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:364:6:Error_Handler	4	static,ignoring_inline_asm
