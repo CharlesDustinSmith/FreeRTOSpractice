@@ -10,7 +10,7 @@ void SystemClock_Config(void);;
 static void MX_GPIO_Init(void);
 static void MX_USB_PCD_Init(void);
 
-#define mainONE_SHOT_TIMER_PERIOD			( pdMS_TO_TICKS( 4000UL ) )		//4000ms
+#define mainONE_SHOT_TIMER_PERIOD			( pdMS_TO_TICKS( 4000UL ) )		//400ms
 #define mainAUTO_RELOAD_TIMER_PERIOD		( pdMS_TO_TICKS( 500UL ) )
 
 TimerHandle_t xAutoReloadTimer, xOneShotTimer;
